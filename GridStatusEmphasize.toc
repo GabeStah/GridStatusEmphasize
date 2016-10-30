@@ -1,0 +1,18 @@
+﻿## Interface: 70100
+## Title: GridStatusEmphasize
+## Notes: Grid module to emphasize units based on some configured conditions.
+## Dependencies: Grid
+## OptionalDeps: BigWigs, Grid_QuickHealth
+## Author: Slaren (Original), Kulldam (Legion)
+## Version: 1.1.118
+## Grid Author: Pastamancer & Maia
+
+embeds.xml
+
+GridStatusEmphasize.lua
+Mode.lua
+
+Modules\Auras.lua
+Modules\BigWigs.lua
+Modules\Health.lua
+Modules\RaidTargetIcons.lua
