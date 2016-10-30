@@ -4,7 +4,7 @@
 ## Dependencies: Grid
 ## OptionalDeps: BigWigs, Grid_QuickHealth
 ## Author: Slaren (Original), Kulldam (Legion)
-## Version: 1.1.118
+## Version: 1.1.119
 ## Grid Author: Pastamancer & Maia
 
 embeds.xml
